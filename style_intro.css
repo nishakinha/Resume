@@ -1,0 +1,15 @@
+tr#odd {
+    background-color: burlywood;
+    margin: 10px;
+}
+tr#even {
+    background-color: rgb(190, 239, 182);
+    margin: 10px;
+}
+h1 {
+    color: rgb(163, 5, 169);
+    font-size: 60px;
+}
+table{
+    font-size: 40px;
+}
